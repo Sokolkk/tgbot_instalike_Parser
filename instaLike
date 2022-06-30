@@ -1,8 +1,8 @@
 from instapy import InstaPy
 from instapy.util import smart_run
 
-insta_username = 'ruki.cc'
-insta_password = '23'
+insta_username = 'username'
+insta_password = 'pass'
 
 
 #https://www.instagram.com/explore/locations/c1942833/balakovo-russia/
